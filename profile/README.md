@@ -1,7 +1,7 @@
 # Olá👋, somos a Minnemi!
 
 <p align="center">
-  <img  src="https://img.shields.io/github/followers/Minnemi?label=Follow">
+<img src="https://github.com/Minnemi/.github/blob/main/profile/larger.png">
 </p>
 
 <p align="center">
