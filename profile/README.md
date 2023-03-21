@@ -24,3 +24,12 @@ Esse é o github da Minnemi, onde temos os repositórios da plataforma em desenv
 Caso queira contribuir de maneira mais ativa, fazer doações ou oferecer ajuda em algo, você pode entrar em contato atraves do e-mail: 
 
 ---
+## Nossas redes sociais:
+
+<p >
+  
+  <a href="https://www.linkedin.com/company/minnemi/">
+    <img  src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"> 
+  </a>
+ 
+</p>
