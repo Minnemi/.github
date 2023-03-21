@@ -1,7 +1,7 @@
 # Olá👋, somos a Minnemi!
 
 <p align="center">
-  <img src="larger.png">
+  <img src="https://github.com/Minnemi/.github/blob/main/profile/larger.png">
 </p>
 
 <p align="center">
