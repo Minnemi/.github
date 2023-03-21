@@ -15,3 +15,12 @@ Este é um projeto opensource de uma plataforma de envios de cartas para si mesm
   <img  src="https://img.shields.io/github/stars/Minnemi?style=social"> 
 </p>
 
+##  🤷 Que página é essa?
+Esse é o github da Minnemi, onde temos os repositórios da plataforma em desenvolvimento. Temos o repositório do back end, desenvolvido em Laravel e o repositório do front end, desenvolvido em Vue.js. Sinta-se livre para rodar o projeto em sua máquina. Aqui você também pode contribuir com o projeto, abrir issues ou entrar em contato com os principais colaboradores do projeto.
+
+---
+
+## 🤔 Como fazer parte do projeto?
+Caso queira contribuir de maneira mais ativa, fazer doações ou oferecer ajuda em algo, você pode entrar em contato atraves do e-mail: 
+
+---
