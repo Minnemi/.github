@@ -22,10 +22,10 @@ Aqui você pode contribuir com o projeto abrindo issues, discutindo com os mante
 
 Você deve seguir o código de conduta da nossa organização para poder contribuir. Lembre-se de que cada repositório tem um padrão de desenvolvimento escolhido inicialmente pelos membros da equipe, você deve seguir esses padrões caso queira enviar uma pull-request.
 
-### Deseja contribuir com o projeto?
-1. [Backend - WIKI Contribuindo com o projeto](https://github.com/Minnemi/minnemi-back/wiki/Contribuindo-com-o-projeto)
+> ### Deseja contribuir com o projeto?
+> Saiba como no [🌻 FLOW Minnemi](https://github.com/Minnemi/.github#readme)
 
-### 🌐 Nossas redes sociais:
+### 🌐 Social:
 [![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/minnemi/)
 
 ---
